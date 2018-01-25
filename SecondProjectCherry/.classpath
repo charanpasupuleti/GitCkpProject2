@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="/Volumes/Cherry-MAC/SeleniumSetup/testng-6.13.1.jar"/>
+	<classpathentry kind="lib" path="/Volumes/Cherry-MAC/SeleniumSetup/selenium-server-standalone-3.8.1.jar"/>
+	<classpathentry kind="lib" path="/Users/cherry/Desktop/JRE System Library.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
